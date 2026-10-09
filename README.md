@@ -4,4 +4,4 @@ Code đi kèm các video của kênh **Cốt Đê** về Cấu trúc dữ liệu
 
 | # | Bài | Code | Video |
 |---|---|---|---|
-| | _sắp có_ | | |
+| 01 | Stack (ngăn xếp) | [stack.cpp](01-stack/stack.cpp) | _sắp có_ |
