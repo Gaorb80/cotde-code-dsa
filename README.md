@@ -8,3 +8,4 @@ Code đi kèm các video của kênh **Cốt Đê** về Cấu trúc dữ liệu
 | 02 | Queue (hàng đợi) | [queue.cpp](02-queue/queue.cpp) | _sắp có_ |
 | 03 | Hash table (bảng băm) | [hash_table.cpp](03-hash-table/hash_table.cpp) | _sắp có_ |
 | 04 | Cây nhị phân và cây tìm kiếm nhị phân (BST), 3 phần | [cay_nhi_phan.cpp](04-cay-nhi-phan-bst/cay_nhi_phan.cpp) | _sắp có_ |
+| 05 | 5 thuật toán sắp xếp: Chọn, Chèn, Nổi bọt, Trộn, Nhanh | [sap_xep.cpp](05-sap-xep/sap_xep.cpp) | _sắp có_ |
